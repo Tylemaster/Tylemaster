@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tylemaster, or Tyler Strang if you'd rather not use an online handle picked in hig school
+- 👋 Hi, I’m @Tylemaster, or Tyler Strang if you'd rather not use an online handle picked in high school
 - 👀 I’m interested in video games, gunpla, coding stuff and seeing how much I can break it
 - 🌱 I’m currently learning database technology. Brushing up on my sql (that is my personal knowledge of sql, not mysql) and learning stuff that we didnt get to in 
 - my database courses.
