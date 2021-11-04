@@ -2,6 +2,8 @@
 - 👀 I’m interested in video games, gunpla, coding stuff and seeing how much I can break it
 - 🌱 I’m currently learning database technology. Brushing up on my sql (that is my personal knowledge of sql, not mysql) and learning stuff that we didnt get to in 
 - my database courses.
+
+Check out my silly little game at Tylemaster.github.io 
 <!---
 Tylemaster/Tylemaster is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
